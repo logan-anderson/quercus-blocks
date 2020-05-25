@@ -9,6 +9,12 @@
       "col_end": 4
     },
     {
+      "_template": "heading_1",
+      "width": "medium",
+      "align": "center",
+      "text": "WOW This is cool!"
+    },
+    {
       "_template": "spacer"
     },
     {
